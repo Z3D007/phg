@@ -1,5 +1,5 @@
 #apt update && apt upgard
 #apt install git
-#git clone
+#git clone https://github.com/minkhaingkhantpro/phg
 #cd phg
 #bash phg.sh
